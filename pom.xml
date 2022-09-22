@@ -57,7 +57,7 @@
 				<version>2.19.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\Users\praf0\Desktop\June Batch Script\TestMavenLifeCycle\src\main\resources\login.xml</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
 				</configuration>
