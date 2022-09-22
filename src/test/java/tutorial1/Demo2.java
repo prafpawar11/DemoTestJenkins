@@ -44,6 +44,16 @@ public class Demo2 {
 		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 	}
 	
+
+	@Test
+	public void abcde()
+	{
+		WebDriverManager.chromedriver().setup();
+		ChromeOptions chrome=new ChromeOptions();
+		chrome.addArguments("--headless");
+		WebDriver driver =new ChromeDriver(chrome);
+		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
+	}
 	
 	
 	
