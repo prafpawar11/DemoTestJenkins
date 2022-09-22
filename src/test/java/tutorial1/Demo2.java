@@ -53,6 +53,9 @@ public class Demo2 {
 		chrome.addArguments("--headless");
 		WebDriver driver =new ChromeDriver(chrome);
 		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
+		
+		System.out.println(driver.getCurrentUrl());
+	
 	}
 	
 	
