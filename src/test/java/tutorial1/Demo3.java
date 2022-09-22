@@ -52,7 +52,10 @@ public class Demo3 {
 		
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getCurrentUrl());
-			
+		System.out.println(driver.getCurrentUrl());
+		System.out.println(driver.getCurrentUrl());
+		
+		
 		
 	}
 	
