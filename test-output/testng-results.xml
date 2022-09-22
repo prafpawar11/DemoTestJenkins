@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-12T20:10:20 IST" name="Suite" finished-at="2022-09-12T20:10:25 IST" duration-ms="4810">
+  <suite started-at="2022-09-22T19:49:20 IST" name="Default suite" finished-at="2022-09-22T19:49:25 IST" duration-ms="5114">
     <groups>
     </groups>
-    <test started-at="2022-09-12T20:10:20 IST" name="Test" finished-at="2022-09-12T20:10:25 IST" duration-ms="4810">
-      <class name="tutorial1.Demo1">
-        <test-method signature="abc()[pri:0, instance:tutorial1.Demo1@79da8dc5]" started-at="2022-09-12T20:10:20 IST" name="abc" finished-at="2022-09-12T20:10:23 IST" duration-ms="2877" status="PASS">
+    <test started-at="2022-09-22T19:49:20 IST" name="Default test" finished-at="2022-09-22T19:49:25 IST" duration-ms="5114">
+      <class name="tutorial1.Demo2">
+        <test-method signature="abc()[pri:0, instance:tutorial1.Demo2@79da8dc5]" started-at="2022-09-22T19:49:20 IST" name="abc" finished-at="2022-09-22T19:49:24 IST" duration-ms="3303" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- abc -->
-        <test-method signature="xyz()[pri:0, instance:tutorial1.Demo1@79da8dc5]" started-at="2022-09-12T20:10:23 IST" name="xyz" finished-at="2022-09-12T20:10:25 IST" duration-ms="1882" status="PASS">
+        <test-method signature="xyz()[pri:0, instance:tutorial1.Demo2@79da8dc5]" started-at="2022-09-22T19:49:24 IST" name="xyz" finished-at="2022-09-22T19:49:25 IST" duration-ms="1743" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- xyz -->
-      </class> <!-- tutorial1.Demo1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- tutorial1.Demo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
